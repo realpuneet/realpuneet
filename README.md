@@ -56,8 +56,10 @@ I’m **Puneet Yadav**, a **Full-stack Web Developer** passionate about building
 
 ---
 
-### 🧠 Other Languages I Know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+### 📬 Connect with me via Mail  
+<a href="mailto:puneety259@gmail.com">
+  <img src="https://img.shields.io/badge/-Mail me-pink?style=flat&logo=gmail&logoColor=white">
+</a>
 
 ---
 
