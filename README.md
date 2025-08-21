@@ -80,8 +80,8 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 
 ---
 
-[website]: https://portafolia-de-puneet.vercel.app/
-[twitter]: https://x.com/realpuneet22
+[website]: https://realpuneet.vercel.app/
+[twitter]: https://x.com/realpuneet_jsx
 [facebook]: https://facebook.com/realpuneet
 [instagram]: https://www.instagram.com/realpuneet/
 [linkedin]: https://www.linkedin.com/in/realpuneet/
